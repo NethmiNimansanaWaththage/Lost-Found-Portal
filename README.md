@@ -253,9 +253,9 @@ Frontend starts at **http://localhost:5173**
 
 | Resource | Link |
 |---|---|
-| Frontend | `[ INSERT VERCEL URL ]` |
-| Backend API | `[ INSERT RENDER URL ]` |
-| GitHub Repo | `[ INSERT GITHUB URL ]` |
+| Frontend | `[https://campusfind-frontend-five.vercel.app/]` |
+| Backend API | `[ https://dashboard.render.com/web/srv-d9a81opo3t8c738f2u3g ]` |
+| GitHub Repo | `[ https://github.com/NethmiNimansanaWaththage/Lost-Found-Portal.git]` |
 
 ---
 
