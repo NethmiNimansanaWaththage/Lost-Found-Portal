@@ -2,7 +2,7 @@
 
 > A full-stack web application that helps university students and staff report lost items, post found items, and use AI to match them together.
 
-**Course:** Object Oriented Programming (CSC 1062) &nbsp;|&nbsp; **Academic Year:** 2025 / 2026
+**Course:** Object Oriented Programming (CSC 2032) &nbsp;|&nbsp; **Academic Year:** 2023 / 2024
 
 | Team Member | Student ID | Primary Responsibility |
 |---|---|---|
