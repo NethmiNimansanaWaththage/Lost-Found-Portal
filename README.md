@@ -160,17 +160,17 @@ Open `backend/src/main/resources/application.properties` and fill in your creden
 ```properties
 server.port=8080
 
-spring.data.mongodb.uri=mongodb+srv://<username>:<password>@<cluster>.mongodb.net/lostfound
+spring.data.mongodb.uri=mongodb+srv://lostfound_user:Lostfound123@cluster0.tbbcngm.mongodb.net/lostfound?retryWrites=true&w=majority&appName=Cluster0
 spring.data.mongodb.database=lostfound
 
-jwt.secret=<your-256-bit-secret-key>
+jwt.secret=ReplaceThisWithALongRandomSecretKeyAtLeast256BitsForHS256Signing
 jwt.expiration=86400000
 
-cloudinary.cloud-name=<your-cloud-name>
-cloudinary.api-key=<your-api-key>
-cloudinary.api-secret=<your-api-secret>
+cloudinary.cloud-name=dl10a52wr
+cloudinary.api-key=177924675159649
+cloudinary.api-secret=gjfsmK269jgL-klDIXC9P6qL5L8
 
-gemini.api.key=<your-gemini-api-key>
+gemini.api.key=AIzaSyBL0rg2l9kBoKGIghfllKz2fctVFXg7VTY
 gemini.api.url=https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent
 ```
 
